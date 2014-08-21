@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    pdf-stamper (0.3.0)
+    rake (10.3.2)
+    rjb (1.3.9)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  pdf-stamper (= 0.3.0)
+  rake
+  rjb (= 1.3.9)
